@@ -54,7 +54,7 @@ public class MapsActivity extends FragmentActivity {
 
     /**
      * This is where we can add markers or lines, add listeners or move the camera. In this case, we
-     * just add a marker near Africa.
+     * center on Dreese Labs.
      * <p>
      * This should only be called once and when we are sure that {@link #mMap} is not null.
      */
